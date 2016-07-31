@@ -691,14 +691,14 @@ span.default_line {
 }
 .copy-right a{
   color:#FFF;
-  padding: 0 3px;
-  background-color: #000;
+  text-decoration: underline;
 }
-.copy-right a:hover{
-  color:#FFF;
 
-  text-decoration:none;
+.footer .attribution a {
+  color: #F0F0F0;
+  text-decoration: underline;
 }
+
 #toTop {
   display: none;
   text-decoration: none;

@@ -222,13 +222,16 @@ nav a#pull {
   width: 17.3%;
   margin: 0 auto;
 }
-.head span{
+
+.head .head-bottom-border{
   width: 189px;
   height: 13px;
   display: block;
   background: url(../images/head-border.png) no-repeat 0px 0px;
   margin-top: 0.15em;
+  margin:0.15em auto 0;
 }
+
 /* Self Clearing Goodness */
 /*	Strip
 /*-----------------------------------------------------------------------------------*/

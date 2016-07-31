@@ -499,8 +499,8 @@ span.default_line {
   color:#fff;
   text-decoration:none;
 }
-/*----start-atendimento-----*/
-.atendimento{
+/*----start-locais-----*/
+.locais{
   padding:3em 0;
 }
 .c-head h3 {
@@ -509,14 +509,14 @@ span.default_line {
 .c-head span{
   margin-left: 1.3em;
 }
-.atendimento-left h4{
+.locais-left h4{
   font-size: 2em;
   color: #000;
   font-weight: 400;
   width: 60%;
   line-height: 1.5em;
 }
-.atendimento-left p{
+.locais-left p{
   color: #222;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.8em;
@@ -524,7 +524,7 @@ span.default_line {
   width: 65%;
 }
 /*-----*/
-.atendimento-right input[type="text"]{
+.locais-right input[type="text"]{
   background:#EEEEEE;
   color:#696969;
   text-align:center;
@@ -543,10 +543,10 @@ span.default_line {
   text-transform:uppercase;
   outline:none;
 }
-.atendimento-right input[type="text"]:hover,.atendimento-right input[type="text"]:focus{
+.locais-right input[type="text"]:hover,.locais-right input[type="text"]:focus{
   border-color:#00AAEF;
 }
-.atendimento-right input[type="submit"]{
+.locais-right input[type="submit"]{
   background: #00AAEF;
   color: #FFF;
   border: 1px solid #00AAEF;
@@ -561,11 +561,11 @@ span.default_line {
   -o-transition:0.5s all;
   -ms-transition:0.5s all;
 }
-.atendimento-right input[type="submit"]:hover{
+.locais-right input[type="submit"]:hover{
   background:#000000;
   border: 1px solid #000;
 }
-.atendimento-grids{
+.locais-grids{
   padding:4em 0 0 0;
 }
 /*----start-Testimonials-----*/
@@ -608,6 +608,7 @@ span.default_line {
 /*----- start-contact----*/
 .contact{
   padding:3em 0;
+  text-align: center;
 }
 .contact-left a,.contact-left p,.contact-left p label{
   color:#000;
@@ -779,7 +780,7 @@ span.default_line {
   .footer {
     min-height: 300px;
   }
-  .atendimento-grids {
+  .locais-grids {
     padding: 1em 0 0 0;
   }
   .head span {
@@ -820,7 +821,7 @@ span.default_line {
   .footer {
     min-height: 300px;
   }
-  .atendimento-grids {
+  .locais-grids {
     padding: 1em 0 0 0;
   }
   .contact-order {
@@ -850,7 +851,7 @@ span.default_line {
     font-weight:400;
     width:100%;
   }
-  .atendimento-left h4 {
+  .locais-left h4 {
     font-size: 1.4em;
     width:100%;
   }
@@ -877,12 +878,12 @@ span.default_line {
   .footer {
     min-height: 200px;
   }
-  .atendimento-left p {
+  .locais-left p {
     line-height: 1.5em;
     font-size: 0.8125em;
     width: 100%;
   }
-  .atendimento-right input[type="text"], .atendimento-right input[type="submit"], .contact-right input[type="text"], .contact-right textarea {
+  .locais-right input[type="text"], .locais-right input[type="submit"], .contact-right input[type="text"], .contact-right textarea {
     padding: 0.7em;
     font-size:0.85em;
   }
@@ -929,12 +930,12 @@ span.default_line {
     width: 40%;
     font-size: 0.8125em;
   }
-  .atendimento-left h4 {
+  .locais-left h4 {
     font-size: 1em;
     width: 100%;
     font-weight: 500;
   }
-  .atendimento-grids {
+  .locais-grids {
     padding: 0;
   }
   .b-animate span {

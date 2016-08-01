@@ -210,8 +210,8 @@ nav a#pull {
   line-height: 1.8em;
   font-family: 'Open Sans', sans-serif;
 }
-/*-----start-gallery---*/
-.gallery{
+/*-----start-services---*/
+.services{
   background:#EEEEEE;
   padding:3em 0;
 }
@@ -465,8 +465,8 @@ span.default_line {
   text-decoration:none;
 }
 /*----*/
-/*-----start-gallery----*/
-.gallery-grids{
+/*-----start-services----*/
+.services-grids{
   padding:3em 0 0 0;
 }
 .port-pic{
@@ -484,7 +484,7 @@ span.default_line {
   text-decoration:none;
   color:#222;
 }
-.view-gallery-btn{
+.view-services-btn{
   background: #00AAEF;
   color: #FFF;
   font-family: 'Open Sans', sans-serif;
@@ -495,7 +495,7 @@ span.default_line {
   margin: 0 auto;
   text-align: center;
 }
-.view-gallery-btn:hover{
+.view-services-btn:hover{
   background:#000;
   color:#fff;
   text-decoration:none;
@@ -737,7 +737,7 @@ span.default_line {
     font-size:1em;
   }
   .bg {
-    min-height: 600px;
+    min-height: 400px;
   }
   nav {
     top:410px;
@@ -760,7 +760,7 @@ span.default_line {
 }
 @media (max-width:800px){
   .bg {
-    min-height: 500px;
+    min-height: 400px;
   }
   nav {
     top:310px;
@@ -859,10 +859,10 @@ span.default_line {
   .head h3 {
     width: 30.3%;
   }
-  .gallery-grids {
+  .services-grids {
     padding: 1em 0 0 0;
   }
-  .view-gallery-btn {
+  .view-services-btn {
     padding: 0.75em;
     width: 32%;
   }
@@ -926,7 +926,7 @@ span.default_line {
   .head h3 {
     width: 55.3%;
   }
-  .view-gallery-btn {
+  .view-services-btn {
     padding: 0.6em;
     width: 40%;
     font-size: 0.8125em;

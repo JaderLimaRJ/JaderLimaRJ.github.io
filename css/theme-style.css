@@ -63,9 +63,7 @@ body a{
   margin: 0 15px 0 0;
   border-radius: 4px;
 }
-.top-nav ul li.active a{
-  text-decoration: underline;
-}
+
 .top-nav ul li a:hover{
   color:#F0F0F0;
   background-color: #0F0F0F;
